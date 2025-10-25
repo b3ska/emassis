@@ -52,8 +52,8 @@ A warm, interactive web application designed to help children aged 8-12 identify
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hackvibe.git
-cd hackvibe
+git clone https://github.com/yourusername/emassis.git
+cd emassis
 ```
 
 ### Step 2: Install Dependencies
@@ -93,7 +93,7 @@ yarn start
 ## 📁 Project Structure
 
 ```
-hackvibe/
+emassis/
 ├── app/
 │   ├── api/
 │   │   └── chat/
@@ -243,7 +243,7 @@ This is a hackathon project! Contributions, issues, and feature requests are wel
 
 ## 📄 License
 
-This project is created for HackVibe Hackathon.
+This project is created for Hack The Vibe Hackathon.
 
 ## 🙏 Acknowledgments
 
